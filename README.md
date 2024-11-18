@@ -3,4 +3,4 @@
 - :abacus: I'm interested in theoretical physics, numerical methods, and machine learning
 - :email: You can reach me by e-mail at [vv.votruba@gmail.com](mailto:vv.votruba@gmail.com)
 - :last_quarter_moon: My X account: [https://x.com/VojtechVotruba](https://x.com/VojtechVotruba)
-- :chess_pawn: I love playing chess and I'm 1600ish FIDE. Contact me if you want to play!
+- :chess_pawn: I like playing chess and I'm 1600ish FIDE. Contact me if you want to play!
