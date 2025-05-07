@@ -1,4 +1,4 @@
-- :blue_heart: Hi, my name is Vojta
-- :notebook: I am a 3rd-year Physics student at CUNI MFF
-- :abacus: I'm interested in theoretical physics, numerical methods, and machine learning
-- :email: You can reach me by e-mail at [vv.votruba@gmail.com](mailto:vv.votruba@gmail.com)
+- Hi, my name is Vojta
+- I am a 3rd-year Physics student at CUNI MFF
+- I'm interested in theoretical physics, numerical methods, and machine learning
+- You can reach me by e-mail at [vv.votruba@gmail.com](mailto:vv.votruba@gmail.com)
