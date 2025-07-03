@@ -2,4 +2,3 @@
 - I am a 1st-year Theoretical Physics student at CUNI MFF
 - Right now, my main research interest lies in connecting machine learning to non-equilibrium thermodynamics
 - You can reach me by e-mail at [vv.votruba@gmail.com](mailto:vv.votruba@gmail.com)
-- 
