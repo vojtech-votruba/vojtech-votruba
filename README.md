@@ -1,4 +1,5 @@
 - Hi, my name is Vojta
-- I am a 3rd-year Physics student at CUNI MFF
-- I'm interested in theoretical physics, numerical methods, and machine learning
+- I am a 1st-year Theoretical Physics student at CUNI MFF
+- Right now, my main research interest lies in connecting machine learning to non-equilibrium thermodynamics
 - You can reach me by e-mail at [vv.votruba@gmail.com](mailto:vv.votruba@gmail.com)
+- 
